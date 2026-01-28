@@ -1,0 +1,7 @@
+1. To Turn off Default conda from terminal.
+conda config --set auto_activate_base false
+
+2. To Acticate Anaconda / bash
+conda activate base
+
+
